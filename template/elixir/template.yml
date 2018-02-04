@@ -1,0 +1,2 @@
+language: elixir
+fprocess: mix run -e "Faas.run"
